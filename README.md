@@ -2,9 +2,12 @@
 
 A zero-knowledge, offline-first password manager built with C++ and ImGui. Your master password never leaves your device — all encryption happens locally using XChaCha20-Poly1305 and Argon2id.
 
-## Screenshot
+## Screenshots
 
 ![Password Defense UI](screenshots/product-4.png)
+![Password Defense UI](screenshots/product-2.png)
+![Password Defense UI](screenshots/generator.png)
+![Password Defense UI](screenshots/security.png)
 
 ## Features
 
