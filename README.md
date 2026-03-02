@@ -4,7 +4,7 @@ A zero-knowledge, offline-first password manager built with C++ and ImGui. Your 
 
 ## Screenshot
 
-![Password Defense UI](screenshots/ui.png)
+![Password Defense UI](screenshots/product-4.png)
 
 ## Features
 
